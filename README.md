@@ -3,4 +3,4 @@
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
 
-![CI](https://github.com/Ben4-front/DOM/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/Ben4-front/Event-handling/actions/workflows/web.yml/badge.svg)
